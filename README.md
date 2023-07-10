@@ -2,6 +2,6 @@
 
 Archives for my coding exercises done in APHY 10.1 taught by Dr. Allan Alinea
 
-## Subheader
+## Exercises
 
 Exercise 1
